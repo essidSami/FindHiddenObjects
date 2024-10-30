@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 500 500"
     style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<defs>
+	<style type="text/css">
+            .state {fill:#D3D3D3;}
+        </style>
+</defs>
 <g id="OBJECTS">
 	<g id="Tomato">
 		<path style="fill:#FB4544;" d="M263.152,298.138c-4.303,0.719-8.638-0.171-12.795-2.154c-2.086-0.995-3.912-2.33-5.43-4.082
