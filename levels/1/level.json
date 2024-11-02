@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "key": "key_fruits",
     "name_tag": "txt_fruits",
@@ -62,4 +61,3 @@
       }
     ],
   }
-]
