@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "key": "key",
+    "name_tag": "txt_fruits",
+    "image": "1",
+    "objects": [
+      {
+        "id": "1",
+        "key": "obj_apple",
+        "image_tag": "ic_apple"
+      },
+      {
+        "id": "2",
+        "key": "obj_banana",
+        "image_tag": "ic_banana"
+      },
+      {
+        "id": "3",
+        "key": "obj_carrots",
+        "image_tag": "ic_carrots"
+      },
+      {
+        "id": "4",
+        "key": "obj_lemon",
+        "image_tag": "ic_lemon"
+      },
+      {
+        "id": "5",
+        "key": "obj_melon",
+        "image_tag": "ic_melon"
+      },
+      {
+        "id": "6",
+        "key": "obj_orange",
+        "image_tag": "ic_orange"
+      },
+      {
+        "id": "7",
+        "key": "obj_peach",
+        "image_tag": "ic_peach"
+      },
+      {
+        "id": "8",
+        "key": "obj_pear",
+        "image_tag": "ic_pear"
+      },
+      {
+        "id": "9",
+        "key": "obj_pineapple",
+        "image_tag": "ic_pineapple"
+      },
+      {
+        "id": "10",
+        "key": "obj_pomegranate",
+        "image_tag": "ic_pomegranate"
+      },
+      {
+        "id": "11",
+        "key": "obj_raspberry",
+        "image_tag": "ic_raspberry"
+      }
+    ],
+  }
+]
