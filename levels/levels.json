@@ -2,11 +2,17 @@
   {
     "id": 1,
     "key": "key_fruits",
-    "name_tag": "txt_fruits"
+    "country_name_tag": "txt_fruits",
+    "country_flag_tag": "ic_fruits",
+    "city": "txt_fruits",
+    "thumbnail": "ic_fruits"
   },
   {
     "id": 2,
     "key": "key_animals",
-    "name_tag": "txt_animals"
+    "country_name_tag": "txt_animals",
+    "country_flag_tag": "ic_animals",
+    "city": "txt_animals",
+    "thumbnail": "ic_animals"
   }
 ]
