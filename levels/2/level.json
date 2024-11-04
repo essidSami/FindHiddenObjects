@@ -1,0 +1,63 @@
+{
+    "id": 1,
+    "key": "key_animals",
+    "name_tag": "txt_animals",
+    "image": "1",
+    "objects": [
+      {
+        "id": "1",
+        "key": "obj_dog",
+        "image_tag": "ic_dog"
+      },
+      {
+        "id": "2",
+        "key": "obj_donkey",
+        "image_tag": "ic_donkey"
+      },
+      {
+        "id": "3",
+        "key": "obj_chicken",
+        "image_tag": "ic_chicken"
+      },
+      {
+        "id": "4",
+        "key": "obj_bee",
+        "image_tag": "ic_bee"
+      },
+      {
+        "id": "5",
+        "key": "obj_melon",
+        "image_tag": "ic_melon"
+      },
+      {
+        "id": "6",
+        "key": "obj_fish",
+        "image_tag": "ic_fish"
+      },
+      {
+        "id": "7",
+        "key": "obj_pig",
+        "image_tag": "ic_pig"
+      },
+      {
+        "id": "8",
+        "key": "obj_sheep",
+        "image_tag": "ic_sheep"
+      },
+      {
+        "id": "9",
+        "key": "obj_mouse",
+        "image_tag": "ic_mouse"
+      },
+      {
+        "id": "10",
+        "key": "obj_parrot",
+        "image_tag": "ic_parrot"
+      },
+      {
+        "id": "11",
+        "key": "obj_chick",
+        "image_tag": "ic_chick"
+      }
+    ]
+  }
