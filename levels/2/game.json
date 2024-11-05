@@ -1,8 +1,6 @@
 {
-    "id": 1,
-    "key": "key_animals",
-    "name_tag": "txt_animals",
-    "image": "1",
+    "level_id": 1,
+    "city": "txt_animals",
     "objects": [
       {
         "id": "1",
