@@ -29,33 +29,28 @@
       },
       {
         "id": "6",
-        "key": "obj_orange",
-        "image_tag": "ic_orange"
+        "key": "obj_watermelon",
+        "image_tag": "ic_watermelon"
       },
       {
         "id": "7",
-        "key": "obj_peach",
-        "image_tag": "ic_peach"
-      },
-      {
-        "id": "8",
         "key": "obj_pear",
         "image_tag": "ic_pear"
       },
       {
-        "id": "9",
+        "id": "8",
         "key": "obj_pineapple",
         "image_tag": "ic_pineapple"
       },
       {
-        "id": "10",
-        "key": "obj_pomegranate",
-        "image_tag": "ic_pomegranate"
-      },
-      {
-        "id": "11",
+        "id": "9",
         "key": "obj_raspberry",
         "image_tag": "ic_raspberry"
+      },
+      {
+        "id": "10",
+        "key": "obj_tomato",
+        "image_tag": "ic_tomato"
       }
     ]
   }
